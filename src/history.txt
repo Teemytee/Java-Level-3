@@ -1,0 +1,54 @@
+
+[Dude]: Hello
+[Dude]: How
+[Dude]: Are
+[Dude]: You?
+
+[Dude]: Hello, it's me again
+[Dude]: Just testing a few things
+
+[Dude]: Hello
+[Dude]: It's me 
+[Dude]: Dude
+[Dude]: Again i've come here to test
+[Dude]: You know that strange thing
+
+[Dude]: that gonna print this 
+[Dude]: without a empty line 
+
+[Dude]: Here we are 
+[Dude]: Born to be
+[Dude]: To be 
+[Dude]: I do not remember correctly 
+[Dude]: Yup 
+[Dude]: That's it 
+[Dude]: Deleting two last characters  
+[Dude]: Allows me to make a whole text file  
+[Dude]: Without emtpy lines 
+[Dude]: And what is more important 
+[Dude]: Chat 
+[Dude]: Saving history by lines 
+[Dude]: By another words 
+[Dude]: It means that every line that i send to chat 
+[Dude]: Saves to text (history) file like a new line
+[Dude]: So 
+[Dude]: This is 
+[Dude]: I think 
+[Dude]: My final test 
+[Dude]: Because it's seem like working stuff 
+[Dude]: Now i'm gonna log out 
+[Dude]: And see what will happen with my text file 
+[Dude]: Log out
+[Dude]: Here we are 
+[Dude]: Again 
+[Dude]: Seems like really working stuff 
+[Dude]: It saves  
+[Dude]: And loads that txt file 
+[Dude]: Now i'm gonna leave this like that
+[Dude]: Final test 
+[Dude]: Okay
+[Dude]: I think this is betteer 
+[Dude]: Than previous one
+[Dude]: Yup 
+[Dude]: This is really better 
+[Dude]: I'm gonna leave this like this
