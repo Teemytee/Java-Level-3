@@ -1,4 +1,7 @@
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.util.function.Consumer;
 
 public class ClientChatAdapter {
@@ -13,6 +16,8 @@ public class ClientChatAdapter {
                 client.sendMessage(messageFromFormSubmitListener);
             }
         });
+        StringBuilder history = loadHistory(100);
+        chatFrame.setTextArea(String.valueOf(history));
         read();
     }
 
@@ -32,5 +37,24 @@ public class ClientChatAdapter {
                 }
             }
         }).start();
+    }
+
+    public StringBuilder loadHistory(int n){
+        File file = new File("D:\\games 2\\JAVA\\IdeaProjects\\Level3\\HomeWork8\\src\\history.txt");
+        StringBuilder history = new StringBuilder();
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+            int counter = 0;
+            String line;
+            while ((line = br.readLine()) != null && counter < n) {
+                counter += 1;
+                history.append(line).append("\n");
+            }
+            history.setLength(history.length() - 1);
+            return history;
+        } catch (Exception e) {
+            throw new RuntimeException("SWW", e);
+        }
+
+
     }
 }

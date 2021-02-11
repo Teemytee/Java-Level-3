@@ -48,5 +48,11 @@ public class ChatFrame extends JFrame {
         stringBuilder.setLength(0);
     }
 
+    public void setTextArea(String text){
+        textArea.setText(text);
+    }
+
+
+
 }
 
