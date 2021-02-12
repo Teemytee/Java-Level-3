@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c61bc31e-782f-45f1-b300-8c4188e6bc9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ForTesting/ForTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6/HomeWork6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Level2/HomeWork4/HomeWork4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Level2/HomeWork7/HomeWork7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/partTwo/main/TaskTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catch_the_drop/src/ru/geekbrains/catch_the_drop/GameWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello_world/hello_world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Python_projects/MergeSort/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python_projects/MergeSort/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Python_projects/SelectionSort/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python_projects/SelectionSort/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Python_projects/gamePython/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python_projects/gamePython/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Python_projects/gamePython/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python_projects/gamePython/game.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../" />
+  </component>
+  <component name="ProjectId" id="1lptm0GByhbYv5jcAT5ruwxkdj8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\games 2\JAVA\IdeaProjects\Level3\HomeWork6\src\main\resources" />
+      <recent name="D:\games 2\JAVA\IdeaProjects\Level3\HomeWork6\Log4j2Maven\src\main\resources" />
+      <recent name="D:\games 2\JAVA\IdeaProjects\Level3\HomeWork6\Log4j2Maven" />
+      <recent name="D:\games 2\JAVA\IdeaProjects\Level3\HomeWork6\Log4j2Maven\src" />
+      <recent name="D:\games 2\JAVA\IdeaProjects\Level3\HomeWork6" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="partTwo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\games 2\JAVA\IdeaProjects\Level3\HomeWork6\maven" />
+      <recent name="D:\games 2\JAVA\IdeaProjects\Level3\HomeWork6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TaskTwoTest.testReturnArrayFromLastFour (1)">
+    <configuration name="Main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="partTwo.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="partTwo" />
+      <option name="MAIN_CLASS_NAME" value="partTwo.Main" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTwoTest.testReturnArrayFromLastFour (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="partTwo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="partTwo.test" />
+      <option name="MAIN_CLASS_NAME" value="partTwo.test.TaskTwoTest" />
+      <option name="METHOD_NAME" value="testReturnArrayFromLastFour(int[],int[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTwoTest.testReturnArrayFromLastFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="partTwo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="partTwo.test" />
+      <option name="MAIN_CLASS_NAME" value="partTwo.test.TaskTwoTest" />
+      <option name="METHOD_NAME" value="testReturnArrayFromLastFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTwoTest.testReturnTrueArrayWithOneOrFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="partTwo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="partTwo.test" />
+      <option name="MAIN_CLASS_NAME" value="partTwo.test.TaskTwoTest" />
+      <option name="METHOD_NAME" value="testReturnTrueArrayWithOneOrFour(boolean,int[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="partTwo.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="partTwo" />
+      <option name="MAIN_CLASS_NAME" value="partTwo.Tests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Main.test" />
+      <item itemvalue="JUnit.Tests.test" />
+      <item itemvalue="JUnit.TaskTwoTest.testReturnArrayFromLastFour" />
+      <item itemvalue="JUnit.TaskTwoTest.testReturnArrayFromLastFour (1)" />
+      <item itemvalue="JUnit.TaskTwoTest.testReturnTrueArrayWithOneOrFour" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TaskTwoTest.testReturnArrayFromLastFour (1)" />
+        <item itemvalue="JUnit.TaskTwoTest.testReturnTrueArrayWithOneOrFour" />
+        <item itemvalue="JUnit.TaskTwoTest.testReturnArrayFromLastFour" />
+        <item itemvalue="JUnit.Tests.test" />
+        <item itemvalue="JUnit.Main.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c61bc31e-782f-45f1-b300-8c4188e6bc9d" name="Default Changelist" comment="" />
+      <created>1608306015388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608306015388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1612618613958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1612618613958" />
+    <state x="704" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612630933432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612630933432" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1612622745981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612622745981" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1613058035488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613058035488" />
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1613084340757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613084340757" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1613084340757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613084340757" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1613084340757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613084340757" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1613084340757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613084340757" />
+    <state width="1877" height="272" key="GridCell.Tab.1.bottom" timestamp="1608308875520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608308875520" />
+    <state width="1877" height="272" key="GridCell.Tab.1.center" timestamp="1608308875520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608308875520" />
+    <state width="1877" height="272" key="GridCell.Tab.1.left" timestamp="1608308875520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608308875520" />
+    <state width="1877" height="272" key="GridCell.Tab.1.right" timestamp="1608308875520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608308875520" />
+    <state x="842" y="189" key="SettingsEditor" timestamp="1612621552625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612621552625" />
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1613062159342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1613062159342" />
+    <state x="342" y="140" key="new project wizard" timestamp="1612621469920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612621469920" />
+  </component>
+</project>

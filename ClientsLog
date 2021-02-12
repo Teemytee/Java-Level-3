@@ -1,0 +1,8 @@
+февр. 07, 2021 5:25:00 PM ClientHandler doAuth
+INFO: Client [Dude] is successfully logged in
+февр. 07, 2021 5:25:01 PM ClientHandler receiveMessage
+INFO: Client [Dude] send a message
+февр. 07, 2021 5:25:03 PM ClientHandler receiveMessage
+INFO: Client [Dude] send a message
+февр. 07, 2021 5:25:05 PM ClientHandler receiveMessage
+INFO: Client [Dude] send a command
